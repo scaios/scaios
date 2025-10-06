@@ -20,8 +20,8 @@
 
 ### ⚙️ Back-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" width="50"/> 
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> 
+](https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css)
 ### 🗄️ Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> 
 
