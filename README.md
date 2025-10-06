@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Caio Silva e esse é meu perfil!
 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoschneider&show_icons=true&bg_color=#ffffff)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaios&show_icons=true&bg_color=#ffffff)
 
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=scaios)](https://github.com/albertoschneider/github-readme-stats)
+[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=scaios)](https://github.com/scaios/github-readme-stats)
 
 ## FRONT-END
 <div style="display: inline_block"><br>
