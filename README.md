@@ -1,6 +1,8 @@
-<h1 style="color: #1E90FF;">Olá, eu sou Caio Silva</h1>
-<h2 style="color: #1E90FF;">🚀Sempre em busca de evolução</h2>
+<h1 align="center">👋 Olá, me chamo Caio!</h1>
 
+<p align="center">
+  Atualmente curso <strong>Técnico em Informática</strong> no <strong>Instituto Ivoti</strong> e estudo de forma independente para
+  aprofundar meus conhecimentos.
 
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Estatisticas)
