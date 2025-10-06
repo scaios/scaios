@@ -2,6 +2,15 @@
 <h2 style="color: #1E90FF;">🚀Sempre em busca de evolução</h2>
 
 
+---
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Estatisticas)
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scaios&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaios&layout=compact&hide_border=true&theme=radical"/>
+</div>
+
+
 
 ---
 ### 🌐 Front-end
@@ -25,16 +34,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Estatisticas)
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scaios&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaios&layout=compact&hide_border=true&theme=radical"/>
-</div>
-
-
-
----
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Redes+Sociais)
 <div align="left">
@@ -48,15 +48,4 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Minhas+Contribuições)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scaios/scaios/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scaios/scaios/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/scaios/scaios/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
-
-
-
-
-
